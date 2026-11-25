@@ -1,6 +1,6 @@
 bl_info = {
-    "name": "Decal Projector",
-    "author": "Claude",
+    "name": "Decalc Projector",
+    "author": "Sergio ReOli",
     "version": (1, 0, 0),
     "blender": (3, 6, 0),
     "location": "View3D > Sidebar (N) > aba Decal",
